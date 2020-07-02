@@ -7,7 +7,7 @@ I have enrolled to a virtual internship at KPMG, through [InsideSherpa](https://
 
 # Module 2
 
-The task was to create a PowerPoint presentation wihch outlines the approach we will be taking to identify which of the __1000 customers__ *Sprocket Central Pty Ltd* should target, based on this dataset.
+The task was to create a PowerPoint presentation wihch outlines the approach we will be taking to identify which of the __1000 customers__ *Sprocket Central Pty Ltd* should target, based on [this](https://github.com/drmonikabalint/KPMG-virtual-internship/KPMG_VI_New_raw_data_update_final.xlsx) dataset.
 
 The below section was inspired by [Blast analitics](https://www.blastanalytics.com/blog/rfm-analysis-boosts-sales) and code was used with slight modification form [Susan Li's](https://towardsdatascience.com/find-your-best-customers-with-customer-segmentation-in-python-61d602f9eee6) blogpost on Medium.
 
