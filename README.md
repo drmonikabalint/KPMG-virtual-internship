@@ -12,13 +12,13 @@ The task was to create a PowerPoint presentation wihch outlines the approach we 
 
 The below section was inspired by [Blast analitics](https://www.blastanalytics.com/blog/rfm-analysis-boosts-sales) and code was used with slight modification form [Susan Li's](https://towardsdatascience.com/find-your-best-customers-with-customer-segmentation-in-python-61d602f9eee6) blogpost on Medium.
 
-To find the best customers, the well known RFM matrix principle is the go-to. For this, we will create an additional table using the Transaction sheet (df1), and will create 3 additional datapoints:
+To find the best customers, the well known RFM matrix principle was used. 
 
     Recency (R) - shows the days since last purchase
     Frequency (F) - cummulative score, how many times a customer made purchase
     Monetary (M) - cummulative score, how much money did a customer spent
 
-Using the above datapoints we will calculate the:
+Using the above datapoints the RFM score is calculated:
 
     RFM score, which is used to select the appropriate marketing strategy for each customer group
     
