@@ -36,4 +36,5 @@ Lost Customers | 411 |Haven’t purchased for some time, but purchased frequentl
 Lost Cheap Customers | 444 |Last purchased long ago, purchased few, and spent little|Don’t spend too much trying to re-acquire
 
 Using the above scoring system, the top 1000 costumers were selected. The poor ranked customers with RFMscores  311, 411 or 444 were eliminated.
+
 ![Alt text](https://github.com/drmonikabalint/KPMG-virtual-internship/blob/master/Module_2/images/top_RFMscore.png "Top RFM score")
