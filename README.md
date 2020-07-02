@@ -17,6 +17,10 @@ To find the best customers, the well known RFM matrix principle was used.
     Recency (R) - shows the days since last purchase
     Frequency (F) - cummulative score, how many times a customer made purchase
     Monetary (M) - cummulative score, how much money did a customer spent
+    
+Distribution of the Transaction data, is represented in the below scatter plot, color coded by the frequency parameter.
+
+
 
 Using the above datapoints the RFM score is calculated:
 
