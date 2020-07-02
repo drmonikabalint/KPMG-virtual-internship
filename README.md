@@ -20,7 +20,7 @@ To find the best customers, the well known RFM matrix principle was used.
     
 Distribution of the Transaction data, is represented in the below scatter plot, color coded by the frequency parameter.
 
-
+![Alt text](https://github.com/drmonikabalint/KPMG-virtual-internship/blob/master/Module_2/images/RFM.png "RFM distribution")
 
 Using the above datapoints the RFM score is calculated:
 
